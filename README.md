@@ -1,1 +1,1 @@
-# diabetics-prediction-using-knn
+# Diabetics Prediction Using KNN in Python 
